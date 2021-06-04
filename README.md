@@ -3,12 +3,12 @@
 
 To start server
  
-cd server
-npm i 
-node app.js
+a) cd server
+b) npm i 
+c) node app.js
 
 To start web
 
-cd web
-npm i
-npm start
+a) cd web
+b) npm i
+c) npm start
